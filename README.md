@@ -45,7 +45,6 @@ El modelo de regresión logística ha sido entrenado y evaluado con los siguient
 
 - Exactitud (Accuracy): 0.857
 - Matriz de Confusión:
-- 
 [[718 6]
 [115 9]]
 

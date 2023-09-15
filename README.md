@@ -1,5 +1,24 @@
 # Etapa_2
 Unidad 1 - Etapa 2 - Diseño de sistemas de aprendizaje automático
+# Proyecto de Regresión Lineal en Python
+
+Este proyecto es un ejemplo de cómo realizar una regresión lineal simple en Python utilizando las bibliotecas populares como Matplotlib, Scikit-Learn, Seaborn, NumPy y Pandas. La regresión lineal es una técnica de aprendizaje automático que se utiliza para predecir una variable dependiente (en este caso, el precio) basada en una o más variables independientes (en este caso, el metro).
+
+## Requisitos
+
+Para ejecutar este proyecto, asegúrate de tener instaladas las siguientes bibliotecas de Python:
+
+- Matplotlib
+- Scikit-Learn (sklearn)
+- Seaborn
+- NumPy
+- Pandas
+
+Puedes instalar estas bibliotecas utilizando el administrador de paquetes `pip`. Por ejemplo:
+
+```bash
+pip install matplotlib scikit-learn seaborn numpy pandas
+
 
 # Regresión Logística para la Predicción de Enfermedades Cardíacas
 
